@@ -1,4 +1,4 @@
-# Train-Ticket-Management-System-in-C-
+# Zarzadzanie sprzedaza biletow PKP
 Projekt konsolowy zrealizowany zgodnie z zasadami programowania obiektowego w C++.
 
 Projekt reprezentuje uproszczony system sprzedazy biletow transportu kolejowego.
